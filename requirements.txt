@@ -1,0 +1,6 @@
+python library :
+
+
+tkinter
+pyperclip
+random
